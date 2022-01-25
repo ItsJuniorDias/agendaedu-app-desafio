@@ -57,7 +57,7 @@ const options: Options[] = [
   },
 ];
 
-const shortcuts: String[] = [
+const shortcuts: string[] = [
   'https://play-lh.googleusercontent.com/FjV_riF_YbneamJX2NM5u994lV8de9ufxlzJNv5xCaa1dUofWeXeo-Fyt5TdU9B-PRg=s180-rw',
   'https://play-lh.googleusercontent.com/d85SyM3_rjiym7bad_vP2_AA3J0WV4PnnzF0Pm_zU7S5CseZ7XVkI83ibRlEY-NCsvP4=s180-rw',
 ];
